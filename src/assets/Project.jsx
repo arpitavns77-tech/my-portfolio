@@ -17,7 +17,7 @@ import Calculater from "./Calculater.png";
      {
       id:2,
       title: "weather",
-      description:"Built a Food Delivery App using React.js with a responsive design, interactive food listings, cart functionality, and smooth navigation ",
+      description:"Search weather by city name Show city name, temperature, weather condition, humidity, and wind speed Use OpenWeather Map API Display weather icon based on conditionShow loading and error statesUse ",
       image: weather,
       tags: ["React", "Javascript","Talwindcss"],
        link: "https://weather-app-six-tawny-14.vercel.app/  ",

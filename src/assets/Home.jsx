@@ -1,6 +1,6 @@
 import React from 'react';
 import { TypeAnimation } from 'react-type-animation';
-import arpita from "./arpita.jpeg";
+import arpita from "./arpita.png";
 import Tilt from "react-parallax-tilt";
 import CV from './CV.pdf'
 
