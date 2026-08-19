@@ -41,14 +41,14 @@ const Home = () => {
           </h3>
 
           <p className="text-gray-400 text-base sm:text-lg leading-relaxed mb-8">
-            I specialize in frontend web development using <br/>
-            React.js, with a focus on creating responsive, high-<br/>
-            performance, and user-friendly interfaces. Passionate<br/>
-             about crafting seamless user experiences, I enjoy<br/>
-              learning modern frontend technologies and <br/>
-              optimizing UI workflows. With a strong understanding<br/>
-               of JavaScript, React ecosystem, and UI/UX principles, I <br/>
-               strive to build impactful, scalable, and visually <br/>
+            I specialize in frontend web development using
+            React.js, with a focus on creating responsive, high-
+            performance, and user-friendly interfaces. Passionate
+             about crafting seamless user experiences, I enjoy
+              learning modern frontend technologies and
+              optimizing UI workflows. With a strong understanding
+               of JavaScript, React ecosystem, and UI/UX principles, I 
+               strive to build impactful, scalable, and visually 
                appealing web applications.
           </p>
 

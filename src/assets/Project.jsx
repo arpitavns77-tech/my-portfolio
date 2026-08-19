@@ -1,6 +1,6 @@
 import React from 'react'
 import Chatboat from "./Chatboat.png";
-import FoodApp from "./FoodApp.png";
+import weather from "./weather.png";
 import Calculater from "./Calculater.png";
 
 
@@ -16,11 +16,11 @@ import Calculater from "./Calculater.png";
 
      {
       id:2,
-      title: "foodApp",
+      title: "weather",
       description:"Built a Food Delivery App using React.js with a responsive design, interactive food listings, cart functionality, and smooth navigation ",
-      image: FoodApp,
+      image: weather,
       tags: ["React", "Javascript","Talwindcss"],
-       link: "https://food-app-six-psi.vercel.app ",
+       link: "https://weather-app-six-tawny-14.vercel.app/  ",
     },
 
      {
